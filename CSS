@@ -1,0 +1,49 @@
+body {
+  background: #307eff;
+  font-family: “Trebuchet MS”, Verdana, Arial, serif;
+}
+
+#map{
+	margin-top: -31.5vw;
+	margin-left: -0.5vw;
+	width: 100%;
+    position: absolute;
+    z-index: -100;
+}
+#timestamp{
+
+	margin-top: 32vw;
+	margin-left: 7vw;
+	position: relative;
+
+}
+#latitude{
+	position: relative;
+	margin-left: 7vw;
+
+}
+#longitude{
+	font-weight:2px;
+	position: relative;
+	margin-left: 7vw;
+
+}
+#ajaxButton{
+
+	position: relative;
+	margin-left: 6.8vw;
+	background-color: white;
+	text-decoration: none;
+	outline: none;
+
+}
+#box{
+/*	opacity: 0.8;*/
+	margin-left: -11vw;
+	margin-top: -9vw;
+	width: 12vw;
+	height: 13vw;
+	position: absolute;
+	z-index: -10;
+
+}
